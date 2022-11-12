@@ -35,7 +35,7 @@ section h2{
 
 section h2::before{
     content: '';
-    outline: 1px solid #3D538A;
+    outline: 1px solid #3D538A;.
 }
 
 
